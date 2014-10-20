@@ -1,4 +1,0 @@
-RabbitHoleTheme
-===============
-
-Readme file. Init.
